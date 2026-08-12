@@ -1,5 +1,8 @@
 # Superstore Offline Data Analysis – Power BI
 
+# Dashboard
+file:///C:/Users/OneWorld/Downloads/image.png
+
 ## 📊 Project Overview
 
 This project is a **Power BI data analysis and business intelligence project** based on Superstore offline sales data.
