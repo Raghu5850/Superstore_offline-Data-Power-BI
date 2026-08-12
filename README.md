@@ -1,8 +1,5 @@
 # Superstore Offline Data Analysis – Power BI
 
-# Dashboard
-https://github.com/Raghu5850/Superstore_offline-Data-Power-BI/blob/main/Screenshot
-
 ## 📊 Project Overview
 
 This project is a **Power BI data analysis and business intelligence project** based on Superstore offline sales data.
