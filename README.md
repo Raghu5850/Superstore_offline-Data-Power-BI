@@ -62,7 +62,7 @@ Contains the raw Superstore sales data used for the analysis.
 
 ### Screenshots
 
-The `screenshots` folder contains images of the Power BI dashboard and important report pages.
+The [`screenshots`](https://github.com/Raghu5850/Superstore_offline-Data-Power-BI/blob/main/Screenshot) folder contains images of the Power BI dashboard and important report pages.
 
 ---
 
