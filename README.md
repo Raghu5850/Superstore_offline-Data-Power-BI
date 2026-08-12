@@ -56,7 +56,7 @@ Contains the complete Power BI report, including:
 
 ### Dataset
 
-`Superstore_Offline_Data.xlsx`
+`Superstore_Offline_Data.csv`
 
 Contains the raw Superstore sales data used for the analysis.
 
