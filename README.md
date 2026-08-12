@@ -1,7 +1,7 @@
 # Superstore Offline Data Analysis – Power BI
 
 # Dashboard
-file:///C:/Users/OneWorld/Downloads/image.png
+https://github.com/Raghu5850/Superstore_offline-Data-Power-BI/blob/main/Screenshot
 
 ## 📊 Project Overview
 
