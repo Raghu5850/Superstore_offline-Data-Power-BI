@@ -43,7 +43,7 @@ The main objectives of this project are:
 
 ### Power BI Report
 
-Superstore_Offline_Data.pbix
+ [Superstore_Offline_Data.pbix](https://github.com/Raghu5850/Superstore_offline-Data-Power-BI/blob/main/Superstore_Offline_Data.pbix)
 
 Contains the complete Power BI report, including:
 
@@ -56,7 +56,7 @@ Contains the complete Power BI report, including:
 
 ### Dataset
 
-Superstore_Offline_Data.csv
+[Superstore_Offline_Data.csv](https://github.com/Raghu5850/Superstore_offline-Data-Power-BI/blob/main/Superstore_Offline_Data.csv)
 
 Contains the raw Superstore sales data used for the analysis.
 
